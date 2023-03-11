@@ -1,4 +1,5 @@
 # Project9
+<img width="300" alt="スクリーンショット 2023-03-11 15 01 52" src="https://user-images.githubusercontent.com/47273077/224467972-3c12a1ff-d8c6-47f6-adbe-a84e47752504.png">
 
 ```swift
 struct Triangle: Shape {
@@ -19,7 +20,7 @@ struct Triangle: Shape {
             .frame(width: 300, height: 300
 ```
 
-<img width="514" alt="スクリーンショット 2023-03-11 15 01 52" src="https://user-images.githubusercontent.com/47273077/224467972-3c12a1ff-d8c6-47f6-adbe-a84e47752504.png">
+<img width="300" alt="スクリーンショット 2023-03-11 15 01 52" src="https://user-images.githubusercontent.com/47273077/224467972-3c12a1ff-d8c6-47f6-adbe-a84e47752504.png">
 
 ```swift
 struct Arc: Shape {
